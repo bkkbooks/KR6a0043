@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0043/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0043/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 閻羅王五天使者經
+  identifiers:
+    krp: KR6a0043
+    cbeta: T01n0043
+    cbeta_old_id: T01n0043
+    authorityid: CA0003675
+    json_key: T0043
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0043.xml
+    old_id: T01n0043
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0043_000-T.yaml, hash: 'sha256:325a1794a78481cc3e89a0c758470a6df861f4d6a340a058c7034f6703f86df7'}
+  - {seq: 1, filename: KR6a0043_001-T.yaml, hash: 'sha256:65ef9f44af736118c28d8546bdf20238840e30b7fb4d22c5f2306084f5de4a69'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0043_000-T.markers.yaml, hash: 'sha256:45e0cfd9a7807f6893fcc2b0185e53f06c7824be5081c91ef08861e85c57c240'}
+  - {seq: 1, role: markers, filename: assets/KR6a0043_001-T.markers.yaml, hash: 'sha256:cfde3af8b01ded5fce651fed97f7f96506a2757ea2b05672e1492aa970848d7b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0043_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1195
+  label: 佛說閻羅王五天使者經
+  type: juan
+  level: 1
+hash: sha256:67ceb438bd5cc98591f790a8f50ef4d364b98ef0925dfda0dc5d29e349aeac09
