@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0043_000.yaml, hash: 'sha256:325a1794a78481cc3e89a0c758470a6df861f4d6a340a058c7034f6703f86df7'}
-  - {seq: 1, filename: KR6a0043_001.yaml, hash: 'sha256:33857e002741a328c26fed9a6fc7cfa3b13ca2dfade0a13479de5ebc17aa18d6'}
+  - {seq: 1, filename: KR6a0043_001.yaml, hash: 'sha256:65ef9f44af736118c28d8546bdf20238840e30b7fb4d22c5f2306084f5de4a69'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0043_001.markers.yaml, hash: 'sha256:8fdf7115be9dd33155c78c99ecfba5dd5d7a364cfec05eb77c5fe60506ad23bf'}
+  - {seq: 0, role: markers, filename: assets/KR6a0043_000.markers.yaml, hash: 'sha256:a3d4e65b4ff0363d4355f4754210c6a4c1a8cd03a979f42d52ffcb66ed260195'}
+  - {seq: 1, role: markers, filename: assets/KR6a0043_001.markers.yaml, hash: 'sha256:ae365cf05d1a8d0f5b49b8d80cc21bff712497bf5212850f41bb490966afbb73'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說閻羅王五天使者經
   type: juan
   level: 1
-hash: sha256:d9482c2c92bab47a6ae7cdde886d14c7f5af40a01ed6b7f0920a6e6a15b54173
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:20f4fc50adb470772d5b6a4bd5e9a28280aaa756381959f1b940f25685517ade
