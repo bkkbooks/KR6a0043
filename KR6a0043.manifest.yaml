@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0043_000.yaml, hash: 'sha256:325a1794a78481cc3e89a0c758470a6df861f4d6a340a058c7034f6703f86df7'}
   - {seq: 1, filename: KR6a0043_001.yaml, hash: 'sha256:c1e119ab5c7d9ffcdaa7ddf240a99c1a38dff6412bdccc1e208f3264a9da7841'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0043_000.markers.yaml, hash: 'sha256:a3d4e65b4ff0363d4355f4754210c6a4c1a8cd03a979f42d52ffcb66ed260195'}
+  - {seq: 0, role: markers, filename: assets/KR6a0043_000.markers.yaml, hash: 'sha256:d840274f9de824c207e434f3b4475184f9f9afc6ff621b7651aff73470410042'}
   - {seq: 1, role: markers, filename: assets/KR6a0043_001.markers.yaml, hash: 'sha256:772df5692be6e370030ea36996ba6ad17f925e2170046767ef65aa9a0ba846b5'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說閻羅王五天使者經
   type: juan
   level: 1
-hash: sha256:be518f8c2e8a307c055af4944e26345edc91b9e8874f36609b204e8e1469474a
+hash: sha256:373f83686865a8677a80e25eed2d1eb5afdaa99e1b2e94cc39caa0d245cd612b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
